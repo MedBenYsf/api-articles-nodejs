@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-gestion-articles",
+  "version": "1.0.0",
+  "description": "gestion des articles avec nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedBenYsf/api-articles-nodejs.git"
+  },
+  "author": "Med Ben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MedBenYsf/api-articles-nodejs/issues"
+  },
+  "homepage": "https://github.com/MedBenYsf/api-articles-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.42.0"
+  }
+}
